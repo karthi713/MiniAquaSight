@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "355567000935",
+    "project_id": "fish-934cd",
+    "storage_bucket": "fish-934cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355567000935:android:72ce94a86f91cad717e3c2",
+        "android_client_info": {
+          "package_name": "com.example.fish_species_identifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355567000935-pjaqff8l7fv5dcq6sa6e9okpa8hkci99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fish_species_identifier",
+            "certificate_hash": "9a4ff33eb840f6aa65de4931daae8afd13e46941"
+          }
+        },
+        {
+          "client_id": "355567000935-hh4d4tqkcgh5gnd4b5ngqdg80ia5alsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxEB08qi8XJJOU6DHBrM9sFEiA-Rgerp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355567000935-hh4d4tqkcgh5gnd4b5ngqdg80ia5alsk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355567000935-8bv16ijuecic67vlukvmirl6n2uquep1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fishSpeciesIdentifier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
